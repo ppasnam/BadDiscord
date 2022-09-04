@@ -1,0 +1,5 @@
+os
+time
+colorama
+discord.py
+platform
