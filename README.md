@@ -1,4 +1,4 @@
->## Warning : Errors are still present, when the debug process is finished, the full version will be published
+>## Warning : Bug fixes are still in progress
 > I'm trying to destroy the bugs
 >> ### What is 'BadDiscord'
 >> #### The 'BadDiscrod' tool exploits unprotected servers where the bot is located with the given bot token
